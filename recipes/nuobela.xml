@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <RECIPES>
+    <RECIPE>
+      <NAME>Nuolebua</NAME>
+      <VERSION>1</VERSION>
+      <TYPE></TYPE>
+      <BREWER>auteur</BREWER>
+      <STYLE>
+        <NAME>IPA</NAME>
+        <VERSION>1</VERSION>
+        <CATEGORY /><CATEGORY_NUMBER />
+        <STYLE_LETTER /><STYLE_GUIDE />
+        <TYPE />
+        <OG_MIN />
+        <OG_MAX />
+        <FG_MIN />
+        <FG_MAX />
+        <IBU_MIN />
+        <IBU_MAX />
+        <COLOR_MIN />
+        <COLOR_MAX />
+      </STYLE>
+      <BATCH_SIZE>20</BATCH_SIZE>
+      <BOIL_SIZE>22.22222222222222</BOIL_SIZE>
+      <BOIL_TIME>60</BOIL_TIME>
+      <EFFICIENCY>75</EFFICIENCY>
+      <EST_OG>1.065</EST_OG><EST_FG>1.012</EST_FG>
+      <IBU>89</IBU>
+      <EST_ABV>7</EST_ABV>
+      <FERMENTABLES>
+        
+        <FERMENTABLE>
+          <NAME>Pale Ale (Malt)</NAME>
+          <VERSION>1</VERSION>
+          <AMOUNT>5</AMOUNT>
+          <TYPE>Grain</TYPE>
+          <YIELD>85</YIELD>
+          <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+          <COLOR>3.5999999999999996</COLOR>
+          <DISPLAY_COLOR>7.092 EBC</DISPLAY_COLOR>
+        </FERMENTABLE>
+        <FERMENTABLE>
+          <NAME>Munich type II (Malt)</NAME>
+          <VERSION>1</VERSION>
+          <AMOUNT>0.3</AMOUNT>
+          <TYPE>Grain</TYPE>
+          <YIELD>78</YIELD>
+          <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+          <COLOR>11.4</COLOR>
+          <DISPLAY_COLOR>22.458000000000002 EBC</DISPLAY_COLOR>
+        </FERMENTABLE>
+      </FERMENTABLES>
+      <HOPS>
+        
+          <HOP>
+            <NAME>Simcoe</NAME>
+            <VERSION>1</VERSION>
+            <AMOUNT>0.04</AMOUNT>
+            <FORM>Leaf</FORM>
+            <TIME> 7200 </TIME>
+            <ALPHA> 13 </ALPHA>
+            <USE>Boil</USE>
+          </HOP>
+          <HOP>
+            <NAME>Centennial</NAME>
+            <VERSION>1</VERSION>
+            <AMOUNT>0.04</AMOUNT>
+            <FORM>Leaf</FORM>
+            <TIME> 30 </TIME>
+            <ALPHA> 10 </ALPHA>
+            <USE>Boil</USE>
+          </HOP>
+          <HOP>
+            <NAME>Citra</NAME>
+            <VERSION>1</VERSION>
+            <AMOUNT>0.1</AMOUNT>
+            <FORM>Leaf</FORM>
+            <TIME> 0 </TIME>
+            <ALPHA> 15.0 </ALPHA>
+            <USE>Dry Hop</USE>
+          </HOP>
+          <HOP>
+            <NAME>Centennial</NAME>
+            <VERSION>1</VERSION>
+            <AMOUNT>0.06</AMOUNT>
+            <FORM>Leaf</FORM>
+            <TIME> 0 </TIME>
+            <ALPHA> 10 </ALPHA>
+            <USE>Dry Hop</USE>
+          </HOP>
+          <HOP>
+            <NAME>Simcoe</NAME>
+            <VERSION>1</VERSION>
+            <AMOUNT>0.06</AMOUNT>
+            <FORM>Leaf</FORM>
+            <TIME> 7200 </TIME>
+            <ALPHA> 13 </ALPHA>
+            <USE>Dry Hop</USE>
+          </HOP>
+      </HOPS>
+      <MISCS>
+        
+      </MISCS>
+      <YEASTS>
+      
+          <YEAST>
+            <NAME>Safale</NAME>
+            <VERSION>1</VERSION>
+             <TYPE />
+             <FORM> Dry </FORM>
+             <LABORATORY>Fermentis</LABORATORY>
+             <PRODUCT_ID>US-05</PRODUCT_ID>
+             <ATTENUATION>81</ATTENUATION>
+          </YEAST>
+      </YEASTS>
+
+      <WATERS/>
+
+      <MASH>
+        <NAME></NAME>
+        <VERSION>1</VERSION>
+        <GRAIN_TEMP></GRAIN_TEMP>
+        <TUN_TEMP></TUN_TEMP>
+        <SPARGE_TEMP></SPARGE_TEMP>
+        <PH></PH>
+        <MASH_STEPS>
+        
+            <MASH_STEP>
+              <NAME>Empâtage</NAME>
+              <VERSION>1</VERSION>
+              <TYPE>Infusion</TYPE>
+              <STEP_TIME>60</STEP_TIME>
+              <STEP_TEMP>65.0</STEP_TEMP>
+              <INFUSE_AMOUNT>0</INFUSE_AMOUNT>
+            </MASH_STEP>
+            <MASH_STEP>
+              <NAME>Mash Out</NAME>
+              <VERSION>1</VERSION>
+              <TYPE>Temperature</TYPE>
+              <STEP_TIME>10</STEP_TIME>
+              <STEP_TEMP>75.0</STEP_TEMP>
+              <INFUSE_AMOUNT>0</INFUSE_AMOUNT>
+            </MASH_STEP>
+        </MASH_STEPS>
+      </MASH>
+      <NOTES></NOTES>
+      <EQUIPMENTS>
+        <EQUIPMENT>
+        <NAME>Joliebulle equipment</NAME>
+        <VERSION>1</VERSION>
+        <BOIL_SIZE>22.22222222222222</BOIL_SIZE>
+        <BATCH_SIZE>NaN</BATCH_SIZE>
+        <TRUB_CHILLER_LOSS>0</TRUB_CHILLER_LOSS>
+        <EVAP_RATE>10</EVAP_RATE>
+        <LAUTER_DEADSPACE>0</LAUTER_DEADSPACE>
+        </EQUIPMENT>
+      </EQUIPMENTS>
+    </RECIPE>
+  </RECIPES>
+  
