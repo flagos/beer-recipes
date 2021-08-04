@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <RECIPES>
+    <RECIPE>
+      <NAME>Fifty Fifty NEIPA</NAME>
+      <VERSION>1</VERSION>
+      <TYPE></TYPE>
+      <BREWER>flagos</BREWER>
+      <STYLE>
+        <NAME>neipa</NAME>
+        <VERSION>1</VERSION>
+        <CATEGORY /><CATEGORY_NUMBER />
+        <STYLE_LETTER /><STYLE_GUIDE />
+        <TYPE />
+        <OG_MIN />
+        <OG_MAX />
+        <FG_MIN />
+        <FG_MAX />
+        <IBU_MIN />
+        <IBU_MAX />
+        <COLOR_MIN />
+        <COLOR_MAX />
+      </STYLE>
+      <BATCH_SIZE>15</BATCH_SIZE>
+      <BOIL_SIZE>17.54385964912281</BOIL_SIZE>
+      <BOIL_TIME>60</BOIL_TIME>
+      <EFFICIENCY>70</EFFICIENCY>
+      <EST_OG>1.075</EST_OG><EST_FG>1.019</EST_FG>
+      <IBU>0</IBU>
+      <EST_ABV>7.3</EST_ABV>
+      <FERMENTABLES>
+        
+        <FERMENTABLE>
+          <NAME>Froment, flocons</NAME>
+          <VERSION>1</VERSION>
+          <AMOUNT>0.5</AMOUNT>
+          <TYPE>Grain</TYPE>
+          <YIELD>77</YIELD>
+          <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+          <COLOR>2.030456852791878</COLOR>
+          <DISPLAY_COLOR>4 EBC</DISPLAY_COLOR>
+        </FERMENTABLE>
+        <FERMENTABLE>
+          <NAME>Avoine, flocons</NAME>
+          <VERSION>1</VERSION>
+          <AMOUNT>0.5</AMOUNT>
+          <TYPE>Grain</TYPE>
+          <YIELD>80</YIELD>
+          <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+          <COLOR>1.015228426395939</COLOR>
+          <DISPLAY_COLOR>2 EBC</DISPLAY_COLOR>
+        </FERMENTABLE>
+        <FERMENTABLE>
+          <NAME>Pale Ale</NAME>
+          <VERSION>1</VERSION>
+          <AMOUNT>4</AMOUNT>
+          <TYPE>Grain</TYPE>
+          <YIELD>85</YIELD>
+          <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+          <COLOR>4.314720812182741</COLOR>
+          <DISPLAY_COLOR>8.5 EBC</DISPLAY_COLOR>
+        </FERMENTABLE>
+      </FERMENTABLES>
+      <HOPS>
+        
+          <HOP>
+            <NAME>Nelson Sauvin</NAME>
+            <VERSION>1</VERSION>
+            <AMOUNT>0.1</AMOUNT>
+            <FORM>Pellet</FORM>
+            <TIME> 0 </TIME>
+            <ALPHA> 13 </ALPHA>
+            <USE>Dry Hop</USE>
+          </HOP>
+          <HOP>
+            <NAME>Mosaic</NAME>
+            <VERSION>1</VERSION>
+            <AMOUNT>0.1</AMOUNT>
+            <FORM>Pellet</FORM>
+            <TIME> 0 </TIME>
+            <ALPHA> 12.0 </ALPHA>
+            <USE>Dry Hop</USE>
+          </HOP>
+      </HOPS>
+      <MISCS>
+        
+      </MISCS>
+      <YEASTS>
+      
+          <YEAST>
+            <NAME>Safale</NAME>
+            <VERSION>1</VERSION>
+             <TYPE />
+             <FORM> Dry </FORM>
+             <LABORATORY>Fermentis</LABORATORY>
+             <PRODUCT_ID>S-04</PRODUCT_ID>
+             <ATTENUATION>75</ATTENUATION>
+          </YEAST>
+      </YEASTS>
+
+      <WATERS/>
+
+      <MASH>
+        <NAME></NAME>
+        <VERSION>1</VERSION>
+        <GRAIN_TEMP></GRAIN_TEMP>
+        <TUN_TEMP></TUN_TEMP>
+        <SPARGE_TEMP></SPARGE_TEMP>
+        <PH></PH>
+        <MASH_STEPS>
+        
+            <MASH_STEP>
+              <NAME>Mash In</NAME>
+              <VERSION>1</VERSION>
+              <TYPE>Infusion</TYPE>
+              <STEP_TIME>60</STEP_TIME>
+              <STEP_TEMP>67</STEP_TEMP>
+              <INFUSE_AMOUNT>0</INFUSE_AMOUNT>
+            </MASH_STEP>
+        </MASH_STEPS>
+      </MASH>
+      <NOTES>3g CaCl2
+3g MgSO4 (Epsom)
+1g NaCl
+</NOTES>
+      <EQUIPMENTS>
+        <EQUIPMENT>
+        <NAME>Joliebulle equipment</NAME>
+        <VERSION>1</VERSION>
+        <BOIL_SIZE>17.54385964912281</BOIL_SIZE>
+        <BATCH_SIZE>14.25</BATCH_SIZE>
+        <TRUB_CHILLER_LOSS>0</TRUB_CHILLER_LOSS>
+        <EVAP_RATE>10</EVAP_RATE>
+        <LAUTER_DEADSPACE>0</LAUTER_DEADSPACE>
+        </EQUIPMENT>
+      </EQUIPMENTS>
+    </RECIPE>
+  </RECIPES>
+  
